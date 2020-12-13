@@ -1,3 +1,13 @@
+Looking towards problem statement(mentioned in ppt) ,we overcome on it and  
+we have implemented our idea of speak vr.
+It's a virtual platform that allows you to practice speaking in public by virtual rooms that includes interaction too.
+We tried our best to implement it.
+
+Though, some of the scenes we can't create but surely in future we will try our best to make it cool!
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
