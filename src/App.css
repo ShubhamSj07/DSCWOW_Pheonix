@@ -1,0 +1,191 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.aTag{
+  color: white;
+}
+.aTag:hover{
+  color: white;
+}
+.spanText0{
+  padding-left: 15px;
+  margin-block-start: 2px;
+  font-size: 1.6rem;
+  font-family: 'Lora';
+  color: aliceblue;
+  text-transform: initial;
+  text-shadow: #ffffff;
+}
+.spanText{
+  padding-left: 5px;
+  margin-block-start: 2px;
+  font-size: 2rem;
+  font-family: 'Lora';
+  color: #89cadb;
+  text-transform: capitalize;
+  text-shadow: #ffffff;
+
+}
+.spanText:hover{
+  font-family: 'Lora';
+  color: aliceblue;
+}
+.spanText0:hover{
+  color: #89cadb;
+}
+#spanJumboText{
+  color: #FF3E4D;
+  font-size: 25px;
+  background-color: #363d49;
+  padding: 9px;
+  border-radius: 1px;
+}
+#spanJumboText1{
+  color: antiquewhite;
+  font-size: 25px;
+  background-color: #363d49;
+  padding: 9px;
+  border-radius: 1px;
+}
+.titleDiv{
+  
+  font-family: 'Lora';
+  color: #89cadb;
+  display: flexbox;
+  opacity: 0.8;
+  padding-top: 10rem;
+}
+
+.navbar-brand{
+  padding-left: 20px;
+}
+
+.aboutP{
+  font-size: larger;
+  text-align: center;
+  color:  #1A202A;
+}
+
+#pText{
+  padding-top: 19px;
+  font-size: 20px;
+  color:  #1A202A;
+  
+}
+.homeDiv{
+  font-family: 'Lora';
+  color: #89cadb;
+  display: flexbox;
+  opacity: 0.8;
+  padding-top: 1rem;
+}
+.aboutDiv{
+  font-family: 'Lora';
+  color: #89cadb;
+  display: flexbox;
+  opacity: 0.8;
+  padding-top: 1rem;
+
+}
+.Text{
+  font-size: 30px;
+  color: #25292b;
+}
+.Text1{
+  font-size: 25px;
+  color: #25292b;
+  text-align: center;
+  background-color: rgb(252, 252, 252);
+}
+.aboutParaText{
+  margin-top: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-size: 25px;
+  color: #232933;
+  background-color: rgb(236, 236, 236);
+  text-align: center;
+}
+.aboutParaText1{
+  margin-top: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-size: 23px;
+  color: #1A202A;
+  background-color: rgb(214, 214, 214);
+  text-align: center;
+}
+.homeText{
+  padding: 5px;
+  padding-top: 15px;
+  padding-bottom: 30px;
+  font-size: 23px;
+  font-family: 'Lora';
+  background-color: #f8faff;
+  color: #1A202A;
+  display: flexbox;
+  opacity: 0.8;
+  text-align: center;
+
+}
+.aboutText{
+  padding: 5px;
+  padding-top: 15px;
+  padding-bottom: 30px;
+  font-family: 'Lora';
+  background-color: #f8faff;
+  color: #1A202A;
+  display: flexbox;
+  opacity: 0.8;
+  text-align: center;
+}
+
+.spanText1{
+  font-size: x-large;
+  color: #89cadb;
+}
+.spanText2{
+  font-size: xx-large;
+  color: #FF3E4D;
+  font-weight: bolder;
+  text-transform: capitalize;
+}
+.noMatchText{
+  padding-top: 8px;
+  padding: 50px;
+  color: #363d49;
+  text-align: center;
+  font-size: xx-large;
+  font-family: 'Lora';
+  background-color: #eeecf5;
+}
